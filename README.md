@@ -28,5 +28,8 @@
 ## Domain
 can be found at : http://kodon.kro.kr/
 
+# Final product
+<img src="./image2.png" width="200" />
+
 ### License
 Distributed under MIT license.
